@@ -1,0 +1,9 @@
+DEVICE_PORT=COM6
+IPADDRESS=127.0.0.1
+SEND_PORT=7000
+LISTEN_PORT=7001
+CMD=R=/composition/layers/1/clips/1/connect
+CMD=L=/composition/layers/1/clips/2/connect
+CMD=P=/composition/layers/1/clips/3/connect
+CMD=Z=/composition/layers/1/clips/4/connect
+
